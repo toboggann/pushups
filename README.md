@@ -1,4 +1,4 @@
-# Rep Johnson 🏋️‍♂️
+# Rep Counter 🏋️‍♂️
 A simple computer-vision rep counter using OpenCV + MediaPipe Pose.
 
 Right now, pushups are implemented. I’m still working on the camera/pose logic for the other exercises (squats, lunges, plank).
